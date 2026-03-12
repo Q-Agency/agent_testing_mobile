@@ -9,7 +9,8 @@
 | Status | DRAFT |
 | Author | AI Agency OS / BA Agent |
 | Date | 2026-03-12 |
-
+| Stack | Mobile |
+| Label | Mobile |
 ---
 
 ## Overview
